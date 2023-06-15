@@ -20,8 +20,8 @@ author: Amos ljw
 ###############################################
 
 navbar-links:
-  Blog: "index.html"
-  About Me/Connect: "aboutme"
+  首页: "index.html"
+  关于我: "aboutme"
 #   Idea Record:
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
@@ -99,7 +99,7 @@ social-network-links:
 url-pretty: "gogowaiting.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
-excerpt_length: 100
+excerpt_length: 50
 
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
